@@ -25,7 +25,8 @@ The game features a simple, text-based interface (GUI was not the main focus of 
 When the game starts, you'll be prompted to choose your character by entering the number corresponding to one of the displayed character names.
 
 Once the game begins, a map will be printed, and you'll see your position marked with an @ symbol.
-Enemies appear as other characters — capital letters represent stronger (tougher) enemies.
+The walls of the level are marked with a #, and empty tiles are represented by a ..
+Enemies appear as other characters — capital letters indicate tougher enemies.
 
 On your turn, you can:
 
